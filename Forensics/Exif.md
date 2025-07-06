@@ -5,6 +5,7 @@ Challenge :
 *If only the password were in the image?
 https://mega.nz/#!SDpF0aYC!fkkhBJuBBtBKGsLTDiF2NuLihP2WRd97Iynd3PhWqRw You could really ‘own’ it with exif.*
 
+
 Title "Exif"  should normally be telling us that we would use exiftool. At least thats how I had interpreted it :
 
 
