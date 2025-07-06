@@ -15,3 +15,4 @@ Okay so nothing interesting. Let's see the strings in the file such as `strings 
 ![](https://github.com/Kaalig/CTFLearn-Writeups/blob/fa585f1aead241cf90f274e1400a2b860b06bc1d/images/Pasted%20image%2020250627190934.png)
 
 
+And fortunately we got it !
